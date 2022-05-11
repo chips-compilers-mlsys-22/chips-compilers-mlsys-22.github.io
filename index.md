@@ -1,9 +1,8 @@
 ---
 layout: home
-title: Agenda
 ---
 
-# Chips & Compilers Symposium at MLSys'21
+# Chips & Compilers Symposium at MLSys '22
 
 
 
@@ -16,10 +15,14 @@ This symposium aims to bring together experts from the field of computer archite
 
 ## Speakers
 
+Stay tuned.
+
+<!---
 {% assign speakers = site.staffers | where: 'role', 'Speaker' %}
 {% for staffer in speakers %}
 {{ staffer }}
 {% endfor %}
+-->
 
 <div style="clear: both;"></div>
 
@@ -34,11 +37,15 @@ This symposium aims to bring together experts from the field of computer archite
 
 ## Agenda
 
+Stay tuned.
+
+<!---
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
+-->
 
 ## See also
 
 - [MLSys main website](https://mlsys.org/)
-- [Virtual event site](https://mlsys.org/virtual/2021/calendar)
+- [Chips and Compilers Symposium 2021](https://chips-compilers-mlsys-21.github.io/)
