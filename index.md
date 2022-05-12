@@ -4,12 +4,11 @@ layout: home
 
 # Chips & Compilers Symposium at MLSys '22
 
-
-
-
-Efficient and scalable learning systems need to take full advantage of modern hardware and runtime environments' performance capability. 
-The rapid advance in ML models and ML-specific hardware makes this task increasingly challenging. 
-This symposium aims to bring together experts from the field of computer architecture and compilers, to discuss about ML-specific hardware, and how to fully use hardware specialization and compilation techniques to provide the best performance for modern machine learning workloads.
+Modern machine learning systems call for scalable and efficient solutions to both gigantic model training and flexible model inference.
+This requires joint design and optimization between hardware and software to take full advantage of the provided resource.
+We have observed active development in this field in the past few years, ranging from machine learning specific hardware and compiler, to customized optimization towards modern machine learning workloads.
+This symposium aims to bring together experts from the field of computer architecture and compilers, to share wisdoms, including first-hand experience, lessons, and best practice, of designing ML workload specific chips and compilers.
+Like last year, the symposium consists of invited talks by domain experts from both academia and industry.
 
 
 
