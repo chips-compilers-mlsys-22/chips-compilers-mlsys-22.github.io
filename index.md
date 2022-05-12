@@ -7,8 +7,8 @@ layout: home
 Modern machine learning systems call for scalable and efficient solutions to both gigantic model training and flexible model inference.
 This requires joint design and optimization between hardware and software to take full advantage of the provided resource.
 We have observed active development in this field in the past few years, ranging from machine learning specific hardware and compiler, to customized optimization towards modern machine learning workloads.
-This symposium aims to bring together experts from the field of computer architecture and compilers, to share wisdoms, including first-hand experience, lessons, and best practice, of designing ML workload specific chips and compilers.
-Like last year, the symposium consists of invited talks by domain experts from both academia and industry.
+This symposium aims to bring together experts from the field of computer architecture and compilers to share first-hand experiences, lessons, and best practices, of designing ML workload specific chips and compilers.
+Like last year, the symposium will consist of invited talks by domain experts from both academia and industry.
 
 
 
