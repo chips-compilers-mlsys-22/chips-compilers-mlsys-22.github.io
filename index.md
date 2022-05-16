@@ -46,5 +46,5 @@ Stay tuned.
 
 ## See also
 
-- [MLSys main website](https://mlsys.org/)
+- [MLSys 2022 Main Website](https://mlsys.org/)
 - [Chips and Compilers Symposium 2021](https://chips-compilers-mlsys-21.github.io/)

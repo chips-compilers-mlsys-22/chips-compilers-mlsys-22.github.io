@@ -5,4 +5,4 @@ role: Organizer
 photo: gennady.jpeg
 ---
 
-Assistant Professor at University of Toronto
+Assistant Professor at University of Toronto and Vector Institute
