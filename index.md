@@ -14,14 +14,10 @@ Like last year, the symposium will consist of invited talks by domain experts fr
 
 ## Speakers
 
-Stay tuned.
-
-<!---
 {% assign speakers = site.staffers | where: 'role', 'Speaker' %}
 {% for staffer in speakers %}
 {{ staffer }}
 {% endfor %}
--->
 
 <div style="clear: both;"></div>
 
