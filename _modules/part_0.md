@@ -1,36 +1,47 @@
 ---
-title: Morning Session (Pacific Time)
+title: Morning Session
 layout: module
 ---
+**Time**
 
-8:30--8:35
+: **Talk Title**
+  : **Speaker**
+
+9:00--9:05
 
 : Opening
   : Organizers
 
+9:05--9:50
 
-8:35--9:30
+: A Decade of Machine Learning Accelerators: Lessons Learned and Carbon Footprint
+  : Dave Patterson
 
-: Logarithmic Numbers and Asynchronous Accumulators, The Future of DL Chips
-  : Bill Dally
+9:50--10:20
 
-9:30--10:00
+: AI for Accelerated AI Execution
+  : Hadi Esmaeilzadeh
 
-: How Usability Improves Performance in PyTorch
-  : Zachary DeVito
-
-10:00--10:30
+10:20--10:40
 
 : Break
 
 
-10:30--11:00
+10:40--11:10
 
-: Science to Fuel Neural Nets and TPU Design
-  : Cliff Young
+: What makes PyTorch beloved makes it hard to compile -- the nuanced design of PyTorch Compilers
+  : Peng Wu
 
 
-11:00--11:30
+11:10--11:40
 
-: MLIR & MLIR in TensorFlow ecosystem
-  : Jacques Pienaar
+: GSPMD: generalized parallelism for large models as shared compiler infrastructure
+  : Yuanzhong Xu
+
+11:40--12:10
+: TBD
+  : Zhihao Jia
+
+12:10--13:15
+
+: Lunch

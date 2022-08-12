@@ -32,13 +32,9 @@ Like last year, the symposium will consist of invited talks by domain experts fr
 
 ## Agenda
 
-Stay tuned.
-
-<!---
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
--->
 
 ## See also
 

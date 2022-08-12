@@ -2,39 +2,39 @@
 title: Afternoon Session
 layout: module
 ---
+**Time**
 
-13:00--13:40
+: **Talk Title**
+  : **Speaker**
 
-: Supporting Sparse Computations in Machine Learning
-  : Saman Amarasinghe
 
-13:40--14:10
+13:15--14:00
 
-: Applying Circuit IR Compilers and Tools (CIRCT) to ML Applications.
-  : Mike Urbach
+: TBD
+  : Ron Diamant
 
-14:10--14:30
+14:00--14:30
+
+: Software and Hardware for Sparse ML
+  : Fred Kjolstad
+
+14:30--15:00
 
 : Break
 
 
-14:30--15:00
-
-: Towards Automatic Scheduling for Tensorized Computation
-  : Tianqi Chen
-
-
 15:00--15:30
 
-: Endpoint AI and the Advent of the microNPU
-  : Tomas Edso
+: MCUNet-v3: On-Device Training Under 256KB Memory
+  : Song Han
 
-15:30--16:30
 
-: Panel Discussion
-  : Chris Lattner, Luis Ceze, Cliff Young
+15:30--16:00
 
-16:30--17:00
+: TBD
+  : Vijay Janapa Reddi
 
-: Compiler-Native Co-design for AI Heterogeneous Computing
-  : Xiaoyong Liu
+16:00--16:30
+
+: Generating efficient code for deep neural network
+  : Jianhui Li
