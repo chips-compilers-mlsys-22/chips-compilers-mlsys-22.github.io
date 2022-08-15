@@ -39,7 +39,7 @@ layout: module
   : Yuanzhong Xu
 
 11:40--12:10
-: TBD
+: Automatically Discovering Machine Learning Optimizations
   : Zhihao Jia
 
 12:10--13:15
