@@ -25,14 +25,14 @@ layout: module
 
 15:00--15:30
 
-: MCUNet-v3: On-Device Training Under 256KB Memory
-  : Song Han
+: Tiny Machine Learning
+  : Vijay Janapa Reddi
 
 
 15:30--16:00
 
-: TBD
-  : Vijay Janapa Reddi
+: MCUNet-v3: On-Device Training Under 256KB Memory
+  : Song Han
 
 16:00--16:30
 

@@ -18,9 +18,8 @@ layout: module
   : Dave Patterson
 
 9:50--10:20
-
-: AI for Accelerated AI Execution
-  : Hadi Esmaeilzadeh
+: Automatically Discovering Machine Learning Optimizations
+  : Zhihao Jia
 
 10:20--10:40
 
@@ -39,8 +38,8 @@ layout: module
   : Yuanzhong Xu
 
 11:40--12:10
-: Automatically Discovering Machine Learning Optimizations
-  : Zhihao Jia
+: AI for Accelerated AI Execution
+  : Hadi Esmaeilzadeh
 
 12:10--13:15
 
