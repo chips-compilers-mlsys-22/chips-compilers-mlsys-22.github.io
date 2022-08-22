@@ -15,8 +15,8 @@ layout: module
 
 14:00--14:30
 
-: Software and Hardware for Sparse ML
-  : Fred Kjolstad
+: GSPMD: generalized parallelism for large models as shared compiler infrastructure
+  : Yuanzhong Xu
 
 14:30--15:00
 
@@ -25,8 +25,8 @@ layout: module
 
 15:00--15:30
 
-: Tiny Machine Learning
-  : Vijay Janapa Reddi
+: Software and Hardware for Sparse ML
+  : Fred Kjolstad
 
 
 15:30--16:00

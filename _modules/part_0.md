@@ -34,8 +34,8 @@ layout: module
 
 11:10--11:40
 
-: GSPMD: generalized parallelism for large models as shared compiler infrastructure
-  : Yuanzhong Xu
+: Tiny Machine Learning
+  : Vijay Janapa Reddi
 
 11:40--12:10
 : AI for Accelerated AI Execution
