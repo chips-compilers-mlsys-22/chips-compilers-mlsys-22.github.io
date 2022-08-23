@@ -10,7 +10,7 @@ layout: module
 
 13:15--14:00
 
-: TBD
+: Optimizing ML workloads across the stack with AWS Trainium
   : Ron Diamant
 
 14:00--14:30
