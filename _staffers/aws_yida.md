@@ -1,6 +1,6 @@
 ---
 name: Yida Wang
-website: https://www.yidawang.org/
+website: http://www.yidawang.org/
 role: Organizer
 photo: yida.jpg
 ---
