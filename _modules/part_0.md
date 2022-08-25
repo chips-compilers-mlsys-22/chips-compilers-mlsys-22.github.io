@@ -38,7 +38,7 @@ layout: module
   : Vijay Janapa Reddi
 
 11:40--12:10
-: AI for Accelerated AI Execution
+: AI for Better AI
   : Hadi Esmaeilzadeh
 
 12:10--13:15

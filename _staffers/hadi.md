@@ -5,4 +5,4 @@ role: Speaker
 photo: hadi.jpeg
 ---
 
-Associate Professor at UCSD
+Associate Professor at UCSD and Co-Founder and CTO at Protopia AI
