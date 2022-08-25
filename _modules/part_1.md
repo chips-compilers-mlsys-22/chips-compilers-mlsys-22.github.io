@@ -31,7 +31,7 @@ layout: module
 
 15:30--16:00
 
-: MCUNet-v3: On-Device Training Under 256KB Memory
+: On-Device Training Under 256KB Memory
   : Song Han
 
 16:00--16:30
