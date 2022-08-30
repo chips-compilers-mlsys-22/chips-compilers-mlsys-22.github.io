@@ -43,4 +43,4 @@ layout: module
 
 12:10--13:15
 
-: Lunch
+: Lunch (Will be provided)
