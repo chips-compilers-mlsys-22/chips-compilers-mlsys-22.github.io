@@ -11,7 +11,7 @@ layout: module
 13:15--14:00
 
 : Optimizing ML workloads across the stack with AWS Trainium
-  : Ron Diamant
+  : Ron Diamant & Tobias Edler von Koch
 
 14:00--14:30
 
