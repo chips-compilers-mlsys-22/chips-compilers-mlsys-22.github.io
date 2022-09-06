@@ -14,11 +14,11 @@ layout: module
 
 9:05--9:50
 
-: A Decade of Machine Learning Accelerators: Lessons Learned and Carbon Footprint
+: <a href="/assets/slides/10 Lessons 4 TPU gens + CO2e 45 minutes.pdf">A Decade of Machine Learning Accelerators: Lessons Learned and Carbon Footprint</a>
   : Dave Patterson
 
 9:50--10:20
-: Automatically Discovering Machine Learning Optimizations
+: <a href="/assets/slides/Zhihao_Jia_MLSys_2022-09-01.pdf">Automatically Discovering Machine Learning Optimizations</a>
   : Zhihao Jia
 
 10:20--10:40
@@ -34,7 +34,7 @@ layout: module
 
 11:10--11:40
 
-: Tiny Machine Learning
+: <a href="/assets/slides/TinyML @ Chips & Compilers.pdf">Tiny Machine Learning</a>
   : Vijay Janapa Reddi
 
 11:40--12:10
