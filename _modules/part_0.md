@@ -28,7 +28,7 @@ layout: module
 
 10:40--11:10
 
-: <a href="、assets/slides/PyTorch Compilers (Compiler & Chips Symposium 2022).pdf">What makes PyTorch beloved makes it hard to compile -- the nuanced design of PyTorch Compilers</a>
+: <a href="/assets/slides/PyTorch Compilers (Compiler & Chips Symposium 2022).pdf">What makes PyTorch beloved makes it hard to compile -- the nuanced design of PyTorch Compilers</a>
   : Peng Wu
 
 
