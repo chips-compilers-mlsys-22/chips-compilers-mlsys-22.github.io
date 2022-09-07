@@ -28,7 +28,7 @@ layout: module
 
 10:40--11:10
 
-: What makes PyTorch beloved makes it hard to compile -- the nuanced design of PyTorch Compilers
+: <a href="https://docs.google.com/presentation/d/e/2PACX-1vShriT_V4NzlcW3CcArvvPt5b5T2FMLPqRysosK1da4kSPM7CDKzoM9Q5GH0YMngqrQQsrnwFhiJ6cs/pub?start=false&slide=id.g843fe5293c_2_8">What makes PyTorch beloved makes it hard to compile -- the nuanced design of PyTorch Compilers</a>
   : Peng Wu
 
 
